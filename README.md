@@ -1,7 +1,7 @@
 <h1 align="center">Sidney Guerrero Ramirez</h1>
 
 <h3 align="center">
-💻 Full Stack Developer | Computer Engineer | Backend & Frontend Enthusiast
+💻 Junior Software Developer| Computer Engineer | Backend & Frontend & Full-Stack
 </h3>
 
 <p align="center">
