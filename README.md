@@ -1,8 +1,17 @@
 <h1 align="center">  Sidney Guerrero Ramirez </h1> 
 
 <p align="left">
-<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<a href="https://www.linkedin.com/in/sidneyguerrero" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sidneyguerrero"/>
+</a>
+
+<a href="mailto:andreyramirezg11gmail.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="andreyramirezg11gmail.com"/>
+</a>
+
+<a href="https://www.instagram.com/andrey29__?igsh=eHhzZWo1dnl1cTV1" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="andrey29__"/>
+</a>
   </p>
 <br>
 <h2>About Me: </h2>
