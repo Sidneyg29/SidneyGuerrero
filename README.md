@@ -14,7 +14,7 @@ Passionate about software development, continuous learning, and building efficie
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:andreyramirezg11@gmail.com">
+<a href="Sidney:andreyramirezg11@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -53,11 +53,3 @@ Passionate about software development, continuous learning, and building efficie
 </p>
 
 ---
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sidneyg29&show_icons=true&theme=tokyonight"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidneyg29&layout=compact&theme=tokyonight"/>
-</p>
