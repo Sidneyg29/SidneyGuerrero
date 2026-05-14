@@ -49,7 +49,7 @@ Passionate about software development, continuous learning, and building efficie
 # 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,js,bootstrap,mysql,css,html,php,vscode,visualstudio,github,gitlab&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,dotnet,java,js,nodejs,react,angular,bootstrap,mysql,css,html,php,vscode,visualstudio,github,gitlab&perline=8" />
 </p>
 
 ---
