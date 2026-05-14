@@ -22,8 +22,16 @@
 
 Junior Full Stack Developer with hands-on experience in frontend and backend. Proactive, responsible, and committed to continuous learning, with the ability to apply technical knowledge and create efficient and scalable solutions that contribute to the organization's success.
 
-📫 Contact: 
-**andreyramirezg11@gmail.com**
+📫 Contact:
+
+✉️ **Correo:**  
+andreyramirezg11@gmail.com
+
+📞 **Teléfono:**  
++506 8557-1404
+
+📍 **Ubicación:**  
+Cartago, Costa Rica
 <!--Intro end-->
   </p>
 <br>
@@ -36,12 +44,3 @@ Junior Full Stack Developer with hands-on experience in frontend and backend. Pr
   </a>
 </p>
 <br>
-<!-------------------------->
-
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
-</p>        
-<!--- stats (end) -->
