@@ -56,8 +56,10 @@ Passionate about software development, continuous learning, and building efficie
 
 # 📊 GitHub Stats
 
+# 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sidneyg29&show_icons=true&theme=tokyonight"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidneyg29&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SidneyGuerrero&show_icons=true&theme=tokyonight"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneyGuerrero&layout=compact&theme=tokyonight"/>
 </p>
