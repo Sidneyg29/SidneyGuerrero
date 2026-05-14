@@ -23,7 +23,7 @@ Junior Full Stack Developer with hands-on experience in frontend and backend. Pr
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,js,sqlserver,mysql,css,html,vscode,visualstudio,php,github,gitlab&perline=12" />
   </a>
 </p>
 <br>
