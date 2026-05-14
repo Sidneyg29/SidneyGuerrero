@@ -1,46 +1,63 @@
-<h1 align="center">  Sidney Guerrero Ramirez </h1> 
+<h1 align="center">Sidney Guerrero Ramirez</h1>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/sidneyguerrero" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sidneyguerrero"/>
-</a>
+<h3 align="center">
+💻 Full Stack Developer | Computer Engineer | Backend & Frontend Enthusiast
+</h3>
 
-<a href="mailto:andreyramirezg11gmail.com" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="andreyramirezg11gmail.com"/>
-</a>
-
-<a href="https://www.instagram.com/andrey29__?igsh=eHhzZWo1dnl1cTV1" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="andrey29__"/>
-</a>
-  </p>
-<br>
-<h2>About Me: </h2>
-<!--Intro start-->
-
-<p align="left">
-🎓 Newly graduated computer engineer, eager to grow and learn.
-
-Junior Full Stack Developer with hands-on experience in frontend and backend. Proactive, responsible, and committed to continuous learning, with the ability to apply technical knowledge and create efficient and scalable solutions that contribute to the organization's success.
-
-📫 Contact:
-
-✉️ **Mail:**  
-andreyramirezg11@gmail.com
-
-📞 **Phone:**  
-+506 8557-1404
-
-📍 **Location:**  
-Cartago, Costa Rica
-<!--Intro end-->
-  </p>
-<br>
-
-<h2 >Known technologies 👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,js,bootstrap,mysql,sqlite,css,html,vscode,visualstudio,php,github,gitlab&perline=12" />
-  </a>
+<p align="center">
+Passionate about software development, continuous learning, and building efficient web solutions.
 </p>
-<br>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sidneyguerrero" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:andreyramirezg11@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/andrey29__?igsh=eHhzZWo1dnl1cTV1" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💫 About Me
+
+🎓 Computer Engineer passionate about technology and software development.
+
+🚀 Junior Full Stack Developer with practical experience in backend and frontend development.
+
+📚 Always learning new technologies and improving my programming skills.
+
+⚡ Focused on creating scalable, efficient, and user-friendly applications.
+
+---
+
+# 📫 Contact
+
+✉️ Email: **andreyramirezg11@gmail.com**  
+📞 Phone: **+506 8557-1404**  
+📍 Location: **Cartago, Costa Rica**
+
+---
+
+# 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,js,bootstrap,mysql,css,html,php,vscode,visualstudio,github,gitlab&perline=8" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight"/>
+</p>
