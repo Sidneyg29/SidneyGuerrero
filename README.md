@@ -26,7 +26,7 @@ Passionate about software development, continuous learning, and building efficie
 
 ---
 
-# 💫 About Me
+# 💫 About Me:
 
 🎓 Newly graduated computer engineer, passionate about technology and software development.
 
@@ -38,7 +38,7 @@ Passionate about software development, continuous learning, and building efficie
 
 ---
 
-# 📫 Contact
+# 📫 Contact:
 
 ✉️ Email: **andreyramirezg11@gmail.com**  
 📞 Phone: **+506 8557-1404**  
@@ -46,7 +46,7 @@ Passionate about software development, continuous learning, and building efficie
 
 ---
 
-# 🛠️ Technologies & Tools
+# 🛠️ Technologies & Tools:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,dotnet,java,js,nodejs,react,angular,bootstrap,mysql,css,html,php,vscode,visualstudio,github,gitlab&perline=8" />
