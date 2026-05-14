@@ -24,13 +24,13 @@ Junior Full Stack Developer with hands-on experience in frontend and backend. Pr
 
 📫 Contact:
 
-✉️ **Correo:**  
+✉️ **Mail:**  
 andreyramirezg11@gmail.com
 
-📞 **Teléfono:**  
+📞 **Phone:**  
 +506 8557-1404
 
-📍 **Ubicación:**  
+📍 **Location:**  
 Cartago, Costa Rica
 <!--Intro end-->
   </p>
