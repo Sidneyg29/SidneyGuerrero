@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-Passionate about software development, continuous learning, and building efficient web solutions.
+Passionate about software development, continuous learning, and building efficient solutions.
 </p>
 
 <div align="center">
