@@ -13,7 +13,8 @@
 
 Junior Full Stack Developer with hands-on experience in frontend and backend. Proactive, responsible, and committed to continuous learning, with the ability to apply technical knowledge and create efficient and scalable solutions that contribute to the organization's success.
 
-📫 Contacto: **unsimpledev@gmail.com**
+📫 Contact: 
+**andreyramirezg11@gmail.com**
 <!--Intro end-->
   </p>
 <br>
