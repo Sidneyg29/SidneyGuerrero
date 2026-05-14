@@ -28,13 +28,13 @@ Passionate about software development, continuous learning, and building efficie
 
 # 💫 About Me
 
-🎓 Computer Engineer passionate about technology and software development.
+🎓 Newly graduated computer engineer, passionate about technology and software development.
 
-🚀 Junior Full Stack Developer with practical experience in backend and frontend development.
+🚀 Junior Full Stack Developer with practical experience on an institutional website using C#, ASP.NET, SQL Server, HTML, CSS, JavaScript and Bootstrap, optimizing information management, validations, CRUD functionalities and responsive design.
 
 📚 Always learning new technologies and improving my programming skills.
 
-⚡ Focused on creating scalable, efficient, and user-friendly applications.
+⚡ Focused on creating scalable, efficient, and user-friendly applications that contribute to the success of the organization.
 
 ---
 
