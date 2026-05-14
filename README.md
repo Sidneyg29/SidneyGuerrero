@@ -57,7 +57,7 @@ Passionate about software development, continuous learning, and building efficie
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sidneyg29&show_icons=true&theme=tokyonight"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidneyg29&layout=compact&theme=tokyonight"/>
 </p>
